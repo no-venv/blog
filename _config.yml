@@ -27,6 +27,13 @@ github_username:  venv
 
 # Build settings
 remote_theme: "mmistakes/minimal-mistakes@4.26.2"
+minimal_mistakes_skin: "plum"
+author:
+  name     : "venv"
+  avatar   : "/assets/images/pfp.png"
+  bio      : "17 yr old canadian who does stuff"
+  location : "canada"
+search: true
 plugins:
   - jekyll-feed
   - jekyll-paginate
@@ -35,6 +42,13 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      read_time: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.
