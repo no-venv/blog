@@ -48,6 +48,10 @@ defaults:
       path: ""
       type: posts
     values:
+      layout: single
+      comments: true
+      share: true
+      related: true
       read_time: true
 
 # Exclude from processing.
