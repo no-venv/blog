@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Post on My New Hugo Site</title>
+    <link>http://localhost:1313/tags/post/</link>
+    <description>Recent content in Post on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 18 Jan 2025 10:24:09 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>hey suckers</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Sat, 18 Jan 2025 10:24:09 -0700</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>&lt;p&gt;so this is where i freely post whatever &amp;amp; whenever i want&lt;/p&gt;&#xA;&lt;p&gt;originally, i intended to make this blog using wordpress.com, but it was too frustrating to use&lt;/p&gt;&#xA;&lt;p&gt;so i decided to use github pages (as i should)&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

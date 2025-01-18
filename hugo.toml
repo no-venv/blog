@@ -1,0 +1,7 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'the venv blog'
+theme = "yinyang"
+[params]
+headTitle = "the venv blog"
+Description = "a blog"
