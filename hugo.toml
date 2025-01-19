@@ -1,4 +1,4 @@
-baseURL = 'https://no-venv.github.io/'
+baseURL = 'https://no-venv.github.io/blog'
 languageCode = 'en-us'
 title = 'the venv blog'
 theme = "yinyang"
